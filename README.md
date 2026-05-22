@@ -1,2 +1,9 @@
-# My-Python-Journey
-"My first repository where I practice daily Python coding."
+# My First Python Program
+
+This is my first Python project uploaded to GitHub.
+
+## Language
+- Python
+
+## Author
+- Sazol
