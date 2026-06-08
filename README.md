@@ -17,11 +17,11 @@ A collection of my daily Python practice programs, exercises, and mini projects 
 - Tuples
 - Dictionaries
 - Sets
+- Modules & Importing
+- File Handling
 
 ## 🚀 Upcoming Topics
 
-- Modules & Importing
-- File Handling
 - Exception Handling
 - OOP (Object-Oriented Programming)
 - NumPy
@@ -54,3 +54,4 @@ This repository is updated regularly as I learn new Python concepts and build ne
 **Sazol Paul**
 
 GitHub: https://github.com/SAZOLPAUL
+- File Handling
