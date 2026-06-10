@@ -20,10 +20,10 @@ A collection of my daily Python practice programs, exercises, and mini projects 
 - Modules & Importing
 - File Handling
 - Exception Handling
+- OOP (Object-Oriented Programming)
 
 ## 🚀 Upcoming Topics
 
-- OOP (Object-Oriented Programming)
 - NumPy
 - Pandas
 - Statistics
