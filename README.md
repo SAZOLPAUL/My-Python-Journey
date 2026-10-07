@@ -1,57 +1,72 @@
+
 # 🐍 My Python Journey
 
-A collection of my daily Python practice programs, exercises, and mini projects as I learn Python step by step.
+> My journey of learning Python from fundamentals
+> to projects and advanced concepts.
 
-## 📚 Topics Covered
+## 👨‍💻 About
 
+This repository contains my Python practice,
+exercises, notes, and mini projects.
+
+I am learning Python step by step with a focus on
+building a strong programming foundation.
+
+## 📚 Learning Path
+
+### 🟢 Fundamentals
 - Variables
 - Data Types
 - Operators
-- Conditional Statements
+- Conditions
 - Loops
-- Functions
-- Lambda Functions
-- Map
-- Filter
+
+### 🔵 Data Structures
 - Lists
 - Tuples
-- Dictionaries
 - Sets
-- Modules & Importing
+- Dictionaries
+
+### 🟣 Functions
+- Functions
+- Lambda
+- map()
+- filter()
+
+### 🟠 Advanced
+- Modules
 - File Handling
 - Exception Handling
-- OOP (Object-Oriented Programming)
+- OOP
+- Inheritance
 
-## 🚀 Upcoming Topics
-
-- NumPy
-- Pandas
-- Statistics
-- SQLite3
-
-## 🛠️ Mini Projects
-
+### 🚀 Projects
 - Calculator
-- Interactive Calculator
-- Leap Year Checker
-- Password Generator
 - Number Guessing Game
+- Password Generator
+- Interactive Calculator
 
-## 🎯 Goal
+## 📈 Progress
 
-My goal is to build a strong Python foundation and gradually move into:
+Python Fundamentals      ██████████ 100%
+Data Structures          ████████░░ 80%
+Functions                ███████░░░ 70%
+OOP                      █████░░░░░ 50%
+Projects                 █████░░░░░ 50%
 
-- Data Science
-- Machine Learning
-- Artificial Intelligence
+## 🎯 Goals
 
-## 📈 Learning Progress
+- Master Python
+- Learn Data Structures & Algorithms
+- Learn Git & GitHub
+- Learn SQL
+- Learn Data Science
+- Learn Machine Learning
+- Build real-world projects
 
-This repository is updated regularly as I learn new Python concepts and build new projects.
+## 🛠️ Tools
 
-## 👨‍💻 Author
-
-**Sazol Paul**
-
-GitHub: https://github.com/SAZOLPAUL
-- File Handling
+- Python
+- Git
+- GitHub
+- VS Code
